@@ -22,7 +22,7 @@ fraud = data.loc[data['Class'] == 1]
 normal = data.loc[data['Class'] == 0]
 
 #Exploring the Data
-#print(data.describe())
+print(data.describe())
 sns.countplot(x='Class', data=data)
 
 #Feature Engineering
