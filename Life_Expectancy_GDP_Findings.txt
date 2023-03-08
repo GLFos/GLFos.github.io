@@ -1,0 +1,17 @@
+This dataset displays the GDP and life expectancy in years for six different countries over 15 years.
+The purpose of this project is to explore any correlations between the these two variables.
+This project is supplied by data through Codecademy.com
+
+A brief methodology of the process:
+Started by cleaning the data, removing any null values or duplicates.
+Printed any unqiue values for the countries and years within the dataset.
+Calculated the correlation coefficient for GDP and life expectancy, with a value of 0.342
+While positive, its rather weak. Correlation doesn't always mean causation, so the data will have to be explored further. 
+A number of visualizations were made including bar graphs, line charts, and scatterplots. These were used at the author's discretion depending on the types of data being displayed. 
+
+Summary of results:
+Overall, life expectancy has increased across these countries over time.
+This also goes for GDP, however some had much more growth than others.
+Zimbabwe had the highest increase in life expectancy, while China had the most growth in their GDP.
+While there is a slight postive correlation between GDP and life expectancy, we cannot definitively say that it is the direct cause.
+These can be a wide variety of factors such as technology, geopolitical climate, etc.
