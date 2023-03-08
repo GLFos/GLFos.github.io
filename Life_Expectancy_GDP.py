@@ -1,4 +1,4 @@
-#%%
+
 #Import all necessary libraries
 import pandas as pd
 import seaborn as sns
@@ -58,5 +58,3 @@ plt.legend(loc='center left', bbox_to_anchor=(1, 0.5), ncol=1)
 plt.ylabel("GDP in Trillions of U.S. Dollars")
 plt.show()
 
-
-# %%
